@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Ejercicio_Individual_12" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Ejercicio_Individual_12" parent="Base.Theme.Ejercicio_Individual_12" />
+
+    <style name="FontStyleNormal" >
+        <item name="android:fontFamily">@font/roboto</item>
+    </style>
+
+    <style name="FontStyleThin" >
+        <item name="android:fontFamily">@font/roboto_thin</item>
+    </style>
+
+    <style name="FontStyleLight" >
+        <item name="android:fontFamily">@font/roboto_light</item>
+    </style>
+
+    <style name="FontStyleMedium" >
+        <item name="android:fontFamily">@font/roboto_medium</item>
+    </style>
+
+    <style name="FontStyleBold" >
+        <item name="android:fontFamily">@font/roboto_bold</item>
+    </style>
+
+</resources>
